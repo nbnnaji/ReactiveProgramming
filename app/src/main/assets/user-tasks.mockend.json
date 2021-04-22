@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "bed" : "Make my bed.",
+      "dog" : "Walk dog.",
+      "trash" : "Take out the trash.",
+      "dishes" : "Unload the dishwasher.",
+      "dinner" : "Make dinner"
+    }
+
+  ],
+  "priority": [
+    {
+      "room" : 1,
+      "pets" : 2,
+      "kitchen" : 5,
+      "kitchen-dishes" : 4,
+      "cooking" : 3
+    }
+  ]
+}
