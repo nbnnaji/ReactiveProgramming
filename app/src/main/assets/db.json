@@ -17,5 +17,14 @@
       "kitchen-dishes" : 4,
       "cooking" : 3
     }
+  ],
+  "no-priorities": [
+    {
+      "play" : 1,
+      "friends" : 2,
+      "shopping" : 5,
+      "dating" : 4,
+      "laundry" : 3
+    }
   ]
 }
